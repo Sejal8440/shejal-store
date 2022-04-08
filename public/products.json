@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit voluptatibus error maiores",
+    "brandName": "nike",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952",
+    "price": 5000
+  },
+  {
+    "id": 2,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit voluptatibus error maiores",
+    "brandName": "nike",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952",
+    "price": 6000
+  },
+  {
+    "id": 3,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit voluptatibus error maiores",
+    "brandName": "nike",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952",
+    "price": 7000
+  },
+  {
+    "id": 4,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit voluptatibus error maiores",
+    "brandName": "nike",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952",
+    "price": 8000
+  },
+  {
+    "id": 5,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit voluptatibus error maiores",
+    "brandName": "nike",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952",
+    "price": 10000
+  },
+  {
+    "id": 6,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit voluptatibus error maiores",
+    "brandName": "nike",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952",
+    "price": 12000
+  }
+]

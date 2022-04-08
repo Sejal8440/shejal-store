@@ -1,0 +1,25 @@
+.product-container {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1100px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
+.product-box {
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);
+  padding: 15px;
+  border-radius: 15px;
+  width: 29%;
+}
+.product-box {
+  margin-bottom: 15px;
+}
+.btn-primary {
+  border: none;
+  padding: 10px 30px;
+  width: 100%;
+  background: #92c952;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+}
